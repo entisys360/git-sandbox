@@ -1,9 +1,9 @@
 ![Logo of the project](/docs/logo.sample.png)
 
-# Git Repository Template
-> A template repository that adheres to Entisys360's Git standards
+# Git Sandbox Repository
+> A repository that adheres to Entisys360's Git standards
 
-This repository is a template for initializing new git repositories or importing existing work.
+This repository was generated from the template repository for use as a sandbox for learning and expirementing with Git.
 
 
 ## Installing / Getting started
@@ -24,10 +24,10 @@ Explain any code style changes specific to this repository and show how to valid
 
 Clone this repository
 ```shell
-git clone https://github.com/entisys360/git-template.git
+git clone https://github.com/entisys360/git-sandbox.git
 ```
 
-Change directory into ./git-template
+Change directory into git-sandbox
 
 Checkout a new branch
 ```shell
