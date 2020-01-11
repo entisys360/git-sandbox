@@ -8,10 +8,7 @@ This repository was generated from the template repository for use as a sandbox 
 
 ## Installing / Getting started
 
-Follow the official Github documentation for creating a new repository using this template.
-
-https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template
-
+See the command reference below ...
 
 ## Style guide
 
