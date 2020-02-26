@@ -5,8 +5,6 @@
 
 This repository was generated from the template repository for use as a sandbox for learning and expirementing with Git.
 
-Welcome to the demo, this is a change.
-
 
 ## Installing / Getting started
 
