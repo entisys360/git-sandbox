@@ -10,14 +10,14 @@ This repository was generated from the template repository for use as a sandbox 
 
 See the command reference below ...
 
-## Style guide
+## Style Guide
 
 Git style and usage guidelines can be found in Entisys360's Microsoft Teams #Git channel.
 
 Explain any code style changes specific to this repository and show how to validate here.
 
 
-## Quick command reference / API reference
+## Quick Command Reference / API Reference
 
 Clone this repository
 ```shell
